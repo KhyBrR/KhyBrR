@@ -1,24 +1,9 @@
-<!--
-**BeeKhyyyyyy/BeeKhyyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Khyron Rafael
-Student | Junior Developer
+Student | Big Dreamer
 
-## Hello, everyone! What's up!! 👋
-I'm **Khyron Rafael**, a new GitHub user and a beginner in Programming. <br>
-I'm just a simple Junior Developer still learning to improve my skills. ^_^
+## Hello, everyone! 👋
+I'm **Khyron Rafael**, a novice GitHub user and Programmer who is aiming to be a successful Techie person someday. <br>
+I'm still a student currently learning to improve my skills. ^_^
 
 I look forward to working with you all!! :]
 
@@ -26,10 +11,10 @@ I look forward to working with you all!! :]
 - 🏫 I’m currently studying at **NU Laguna**
 - 💙 a **BLUE** scholar *(formerly WHITE scholar)*
 - 👥 Member of the **Council of Leaders (COL)**
-- 📖 I’m currently learning `GitHub`, `AI/ML`, and `OS`
+- 📖 I’m currently learning `Git/GitHub`, `AI/ML`, and `AR/VR`
 - 🎓 I’m currently pursuing **BS Computer Science**
-- 🛠️ I’m proficient with `Java`, `SQL`, `HTML`, and `CSS`
-- 🧰 I have experience with `JavaScript` and `Verilog`
+- 🛠️ I’m proficient with `Java`, `SQL`, `HTML`, `CSS`, and `Bootstrap`
+- 🧰 I have experience with `JavaScript`, `Verilog`, `PHP`, `Node.js`, and `Python`
 - 🏸 **Hobbies:** Badminton, Online Games
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love playing sports/online games and sleeping
+- ⚡ **Fun fact:** I love playing sports and online games and adventuring/exploring
